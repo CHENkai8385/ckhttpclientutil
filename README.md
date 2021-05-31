@@ -1,15 +1,12 @@
-# httpclientutil （QQ群[548452686](http://shang.qq.com/wpa/qunwpa?idkey=4fae0ff61968c0a25a08318ad42cfff7509542c26a1894706a9b7d1845b0bf68 "httpclientUtil交流") ![image](http://pub.idqqimg.com/wpa/images/group.png)）
+# httpclientutil
+
+在作者基础上移除了日志文件
 
 该项目基于HttpClient-4.4.1封装的一个工具类，支持插件式配置Header、插件式配置httpclient对象，这样就可以方便地自定义header信息、配置ssl、配置proxy等。
 
 ## Maven坐标：
 ```
-<!-- https://mvnrepository.com/artifact/com.arronlong/httpclientutil -->
-<dependency>
-    <groupId>com.arronlong</groupId>
-    <artifactId>httpclientutil</artifactId>
-    <version>1.0.4</version>
-</dependency>
+请稍后
 ```
 
 ## 简单Demo
@@ -198,3 +195,4 @@ HttpClient 是 Apache Jakarta Common 下的子项目，可以用来提供高效�
 		String body="";
 		Strin...
 ```
+
