@@ -1,0 +1,6 @@
+com.arronlong.httpclientutil
+com.arronlong.httpclientutil.builder
+com.arronlong.httpclientutil.common
+com.arronlong.httpclientutil.common.util
+com.arronlong.httpclientutil.evictor
+com.arronlong.httpclientutil.exception
