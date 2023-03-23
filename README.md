@@ -6,7 +6,11 @@
 
 ## Maven坐标：
 ```
-请稍后
+<dependency>
+    <groupId>io.github.CHENkai8385</groupId>
+    <artifactId>ckhttpclient</artifactId>
+    <version>1.0.0</version>
+</dependency>
 ```
 
 ## 简单Demo
